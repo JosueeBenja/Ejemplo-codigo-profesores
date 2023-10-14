@@ -1,0 +1,19 @@
+C:\Users\Gonzalez\Desktop\Ejemplo codigo profesor\Ejemplo codigo profesores\bin\Debug\net6.0-windows\Ejemplo codigo profesores.exe
+C:\Users\Gonzalez\Desktop\Ejemplo codigo profesor\Ejemplo codigo profesores\bin\Debug\net6.0-windows\Ejemplo codigo profesores.deps.json
+C:\Users\Gonzalez\Desktop\Ejemplo codigo profesor\Ejemplo codigo profesores\bin\Debug\net6.0-windows\Ejemplo codigo profesores.runtimeconfig.json
+C:\Users\Gonzalez\Desktop\Ejemplo codigo profesor\Ejemplo codigo profesores\bin\Debug\net6.0-windows\Ejemplo codigo profesores.dll
+C:\Users\Gonzalez\Desktop\Ejemplo codigo profesor\Ejemplo codigo profesores\bin\Debug\net6.0-windows\Ejemplo codigo profesores.pdb
+C:\Users\Gonzalez\Desktop\Ejemplo codigo profesor\Ejemplo codigo profesores\obj\Debug\net6.0-windows\Ejemplo codigo profesores.csproj.AssemblyReference.cache
+C:\Users\Gonzalez\Desktop\Ejemplo codigo profesor\Ejemplo codigo profesores\obj\Debug\net6.0-windows\Ejemplo_codigo_profesores.Form1.resources
+C:\Users\Gonzalez\Desktop\Ejemplo codigo profesor\Ejemplo codigo profesores\obj\Debug\net6.0-windows\Ejemplo_codigo_profesores.gestionProfesores.resources
+C:\Users\Gonzalez\Desktop\Ejemplo codigo profesor\Ejemplo codigo profesores\obj\Debug\net6.0-windows\Ejemplo codigo profesores.csproj.GenerateResource.cache
+C:\Users\Gonzalez\Desktop\Ejemplo codigo profesor\Ejemplo codigo profesores\obj\Debug\net6.0-windows\Ejemplo codigo profesores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalez\Desktop\Ejemplo codigo profesor\Ejemplo codigo profesores\obj\Debug\net6.0-windows\Ejemplo codigo profesores.AssemblyInfoInputs.cache
+C:\Users\Gonzalez\Desktop\Ejemplo codigo profesor\Ejemplo codigo profesores\obj\Debug\net6.0-windows\Ejemplo codigo profesores.AssemblyInfo.cs
+C:\Users\Gonzalez\Desktop\Ejemplo codigo profesor\Ejemplo codigo profesores\obj\Debug\net6.0-windows\Ejemplo codigo profesores.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalez\Desktop\Ejemplo codigo profesor\Ejemplo codigo profesores\obj\Debug\net6.0-windows\Ejemplo codigo profesores.dll
+C:\Users\Gonzalez\Desktop\Ejemplo codigo profesor\Ejemplo codigo profesores\obj\Debug\net6.0-windows\refint\Ejemplo codigo profesores.dll
+C:\Users\Gonzalez\Desktop\Ejemplo codigo profesor\Ejemplo codigo profesores\obj\Debug\net6.0-windows\Ejemplo codigo profesores.pdb
+C:\Users\Gonzalez\Desktop\Ejemplo codigo profesor\Ejemplo codigo profesores\obj\Debug\net6.0-windows\Ejemplo codigo profesores.genruntimeconfig.cache
+C:\Users\Gonzalez\Desktop\Ejemplo codigo profesor\Ejemplo codigo profesores\obj\Debug\net6.0-windows\ref\Ejemplo codigo profesores.dll
+C:\Users\Gonzalez\Desktop\Ejemplo codigo profesor\Ejemplo codigo profesores\obj\Debug\net6.0-windows\Ejemplo_codigo_profesores.ActualizarLista.resources

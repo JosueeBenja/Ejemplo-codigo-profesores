@@ -1,0 +1,1 @@
+Nombre, Apellido, Especialidad, Telefono, Correo Electronico, Dirección de Residencia, Fecha de Nacimiento, Numero de Identificación
